@@ -1,0 +1,26 @@
+.container{
+    padding: 5% 15%;
+    margin:  auto;
+}
+
+form input {
+    padding: 10px ;
+    outline: none;
+    
+}
+
+form button {
+    padding: 10px;
+    margin-left: 10px;
+    background-color: gray;
+    color: white;
+    outline: none;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+.heading  {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
